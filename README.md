@@ -1,5 +1,6 @@
 # CpUpES2-Decrypt
 A tool to decrypt "UpdaterES2.CpUp" from PSVita DevKit Update Files
+(im not the first to do this, but afaik im the first to do it *publicly*)
 
 Made possible by Zecoaxco and VVildCard777 for dumping the CP EMMC. 
 And Mathieulh for helping me with stuffs, and answering all my stupid questions.
